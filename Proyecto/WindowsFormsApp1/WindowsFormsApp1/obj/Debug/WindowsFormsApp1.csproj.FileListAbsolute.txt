@@ -1,0 +1,16 @@
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCliente.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormConsultayReporte.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLibros.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormReserva.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reporte1.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reporte2.resources

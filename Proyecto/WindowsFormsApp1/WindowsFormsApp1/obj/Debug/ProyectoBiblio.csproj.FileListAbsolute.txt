@@ -1,0 +1,28 @@
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCliente.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormConsultayReporte.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLibros.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormReserva.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto Final 1 - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.FormCliente.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.FormConsultayReporte.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.FormLibros.resources
+C:\Users\sebas\OneDrive\Escritorio\Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoBiblio.FormReserva.resources
